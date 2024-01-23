@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  margin: 0 auto;
+  color: #f6f6f6;
+  background-color: #000;
+  font-family: Sora, system-ui;
+}
+
+main {
+  margin: 5rem;
+  display: flex;
+}
+
+.title-strong {
+  color: #22d4fd;
+}
+
+a {
+  text-decoration: none;
+  background-color: #22d4fd;
+  padding: 0.5rem;
+  padding: 0.5rem;
+  color: #000;
+  font-weight: bold;
+  margin: 0.5rem;
+}
+
+.imagem {
+  border-radius: 3px;
+  border: 1px solid #22dafd;
+}
+
+img {
+  border-radius: 3px;
+  border: 1px solid #22dafd;
+}

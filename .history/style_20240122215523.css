@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  color: #f6f6f6;
+  background-color: #000;
+  font-family: Sora, system-ui;
+}
+
+main {
+  margin: 5rem;
+}
+
+strong {
+  color: #22d4fd;
+}
+
+a {
+  text-decoration: none;
+  background-color: #22d4fd;
+  padding: 0.5rem;
+  padding: 0.5rem;
+}

@@ -52,8 +52,8 @@ p {
 
 a {
   display: flex;
-  min-width: 200px;
-  min-height: 79px;
+  //min-width: 200px;
+  //min-height: 79px;
   padding: 16px;
   justify-content: center;
   align-items: center;
@@ -75,8 +75,5 @@ a {
 }
 
 img {
-  postion: relative;
   border-radius: 10px;
-  top: 40px;
-  left: 20px;
 }
